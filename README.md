@@ -1,12 +1,14 @@
 # Bom Dia / Good Morning ☀️ 
 <img src="https://skillicons.dev/icons?i=c,python,github," />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFSC, com grande interesse em tecnologia, programação e resolução de problemas. Tenho facilidade em aprender novas ferramentas e gosto de entender como os sistemas funcionam por trás da interface.
 
 Student of Systems Analysis and Development (ADS) at IFSC, with a strong interest in technology, programming, and problem-solving. I learn new tools easily and enjoy understanding how systems work behind the interface.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 # PT-BR:
 ## Alex Ramos Do Nascimento
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) – IFSC
@@ -38,7 +40,8 @@ first internship in technology.
 
 📍 Gaspar - SC, Brazil
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 # Me Contate / Contact me 📢
 💼 Linkedin: [linkedin alex-ramos](https://linkedin.com/in/alex-ramos-3496083b6)
 
@@ -52,7 +55,7 @@ first internship in technology.
 ![Python](https://img.shields.io/badge/Python-orange?logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 📊 GitHub Stats
 
@@ -62,4 +65,4 @@ first internship in technology.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRamosNasc&layout=compact&theme=dark)
 
-![divider](https://user-images.githubusercontent.com/74038190/212259775-6b4d3c52-5e0e-4c66-b25c-3d7a6c1f8e4a.gif)
+<!-- Futura continuação -->
