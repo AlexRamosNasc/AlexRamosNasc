@@ -56,10 +56,10 @@ first internship in technology.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRamosNasc&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Perfil Stats](https://github-readme-stats.vercel.app/api?username=AlexRamosNasc&show_icons=true&theme=tokyonight)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRamosNasc&layout=compact&theme=tokyonight&cache_seconds=1800)
 
----
-![GitHub Streak](https://streak-stats.demolab.com/?user=AlexRamosNasc&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRamosNasc&layout=compact&theme=dark)
+
+![divider](https://user-images.githubusercontent.com/74038190/212259775-6b4d3c52-5e0e-4c66-b25c-3d7a6c1f8e4a.gif)
