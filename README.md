@@ -3,6 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
+## Alex Ramos Do Nascimento
+
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFSC, com grande interesse em tecnologia, programação e resolução de problemas. Tenho facilidade em aprender novas ferramentas e gosto de entender como os sistemas funcionam por trás da interface.
 
 Student of Systems Analysis and Development (ADS) at IFSC, with a strong interest in technology, programming, and problem-solving. I learn new tools easily and enjoy understanding how systems work behind the interface.
@@ -10,7 +12,6 @@ Student of Systems Analysis and Development (ADS) at IFSC, with a strong interes
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # PT-BR:
-## Alex Ramos Do Nascimento
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) – IFSC
 
 💻 Atualmente aprendendo:
@@ -25,8 +26,6 @@ Conseguir minha primeira oportunidade ou estágio na área de tecnologia.
 📍 Gaspar - SC, Brasil
 
 # English:
-## Alex Ramos Do Nascimento
-
 🎓 Systems Analysis and Development (ADS) student - IFSC
 
 💻 Currently learning:
