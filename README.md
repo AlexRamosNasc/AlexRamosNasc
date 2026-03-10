@@ -1,16 +1,65 @@
-## Hi there 👋
+# Bom Dia / Good Morning ☀️ 
+<img src="https://skillicons.dev/icons?i=c,python,github," />
 
-<!--
-**AlexRamosNasc/AlexRamosNasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFSC, com grande interesse em tecnologia, programação e resolução de problemas. Tenho facilidade em aprender novas ferramentas e gosto de entender como os sistemas funcionam por trás da interface.
 
-Here are some ideas to get you started:
+Student of Systems Analysis and Development (ADS) at IFSC, with a strong interest in technology, programming, and problem-solving. I learn new tools easily and enjoy understanding how systems work behind the interface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+# PT-BR:
+## Alex Ramos Do Nascimento
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) – IFSC
+
+💻 Atualmente aprendendo:
+- Lógica de programação
+- Linguagem C
+- Estruturas de controle
+- Algoritmos
+
+🚀 Objetivo
+Conseguir minha primeira oportunidade ou estágio na área de tecnologia.
+
+📍 Gaspar - SC, Brasil
+
+# English:
+## Alex Ramos Do Nascimento
+
+🎓 Systems Analysis and Development (ADS) student - IFSC
+
+💻 Currently learning:
+- Programming logic
+- C programming
+- Control structures
+- Algorithms
+
+🚀 Goal
+first internship in technology.
+
+📍 Gaspar - SC, Brazil
+
+---
+# Me Contate / Contact me 📢
+💼 Linkedin: [linkedin alex-ramos](https://linkedin.com/in/alex-ramos-3496083b6)
+
+🔗 Email: <alexramos.nasc1@gmail.com>
+
+---
+
+## 🛠️ Technologies I'm learning
+
+![C](https://img.shields.io/badge/C-blue?logo=c)
+![Python](https://img.shields.io/badge/Python-orange?logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRamosNasc&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRamosNasc&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+---
+![GitHub Streak](https://streak-stats.demolab.com/?user=AlexRamosNasc&theme=tokyonight)
