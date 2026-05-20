@@ -58,10 +58,10 @@ first internship in technology.
 
 ## 📊 GitHub Stats
 
-![Perfil Stats](https://github-readme-stats.vercel.app/api?username=AlexRamosNasc&show_icons=true&theme=tokyonight)
+![Perfil Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AlexRamosNasc&show_icons=true&theme=tokyonight)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRamosNasc&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AlexRamosNasc&layout=compact&theme=dark)
 
 <!-- Futura continuação -->
